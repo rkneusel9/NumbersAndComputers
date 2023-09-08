@@ -1,5 +1,5 @@
 # NumbersAndComputers
 Source code to accompany the book "Numbers and Computers"
 
-Comments?  Questions?  email: numbersandcomputers@gmail.com
+Comments?  Questions?  email: rkneuselbooks@gmail.com
 
