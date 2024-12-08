@@ -8,7 +8,7 @@ Please send questions, comments, or bugs to:
 
 Files:
 
-    3rd_Ed__NumbersAndComputers.zip -- new code for the 3rd edition
+    3rd_Ed__NumbersAndComputers.zip -- code for the 3rd edition (the one you want)
 
     2nd_Ed__NumbersAndComputers.zip -- code for the older 2nd edition
 
